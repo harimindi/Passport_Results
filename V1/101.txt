@@ -1,0 +1,8 @@
+IssuingCountry: GBR
+LastName: AUJLA
+GivenName: JOGA SINGH
+DocumentNumber: - 4641592
+Nationality: 23G
+Date of Birth: 
+Sex: 
+Date of Expiry: 

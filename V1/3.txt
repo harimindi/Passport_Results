@@ -1,0 +1,8 @@
+IssuingCountry: CZE
+LastName: STUKA
+GivenName: LEO
+DocumentNumber: 39963480
+Nationality: CZE
+Date of Birth: 13-03-2064
+Sex: MALE
+Date of Expiry: 19-04-2021

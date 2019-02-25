@@ -1,0 +1,8 @@
+IssuingCountry: VEN
+LastName: MEDINA SCORDAMAGLIA
+GivenName: ARMANDO RAFAEL
+DocumentNumber: 133998751
+Nationality: VEN
+Date of Birth: 16-09-1982
+Sex: MALE
+Date of Expiry: 29-03-2021

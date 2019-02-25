@@ -1,0 +1,8 @@
+IssuingCountry: NGA
+LastName: EDET
+GivenName: NSIDIBE A5UQUO
+DocumentNumber: A04513233
+Nationality: NGA
+Date of Birth: 03-11-1979
+Sex: MALE
+Date of Expiry: 02-04-2018

@@ -1,0 +1,8 @@
+IssuingCountry: SWE
+LastName: DENBERT
+GivenName: MATTIAS ERIC ALEXANDER
+DocumentNumber: 93371083
+Nationality: SWE
+Date of Birth: 21-06-1988
+Sex: MALE
+Date of Expiry: 14-07-2022

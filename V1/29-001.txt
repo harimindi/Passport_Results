@@ -1,0 +1,8 @@
+IssuingCountry: GBR
+LastName: DOBBIE
+GivenName: CPR ISTIANA ELIZABETH
+DocumentNumber: 0/9059048
+Nationality: /-G
+Date of Birth: 
+Sex: 
+Date of Expiry: 

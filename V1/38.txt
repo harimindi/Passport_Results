@@ -1,0 +1,8 @@
+IssuingCountry: GBR
+LastName: UKO
+GivenName: -GABR I EL EKE
+DocumentNumber: - 2109935
+Nationality: 03G
+Date of Birth: 
+Sex: 
+Date of Expiry: 

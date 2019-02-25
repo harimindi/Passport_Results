@@ -1,0 +1,8 @@
+IssuingCountry: GBR
+LastName: HOPTROFF
+GivenName: CHARLOTTE MARIE
+DocumentNumber: 464483650
+Nationality: GBR
+Date of Birth: 28-12-1979
+Sex: FEMALE
+Date of Expiry: 12-06-2020

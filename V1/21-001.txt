@@ -1,0 +1,8 @@
+IssuingCountry: GBR
+LastName: OWENS
+GivenName: STEPHEN JOHN
+DocumentNumber: 308566851
+Nationality: GBR
+Date of Birth: 19-08-1969
+Sex: MALE
+Date of Expiry: 09-08-2023

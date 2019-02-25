@@ -1,0 +1,8 @@
+IssuingCountry: PAK
+LastName: HUSSAIN
+GivenName: SHAFQAT
+DocumentNumber: NV6896212
+Nationality: PAK
+Date of Birth: 21-12-1975
+Sex: MALE
+Date of Expiry: 21-04-2020

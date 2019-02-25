@@ -1,0 +1,8 @@
+IssuingCountry: GBR
+LastName: SMITH
+GivenName: CHARLES TATTON
+DocumentNumber: 509633763
+Nationality: GBR
+Date of Birth: 13-08-2056
+Sex: MALE
+Date of Expiry: 24-06-2022

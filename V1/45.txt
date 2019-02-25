@@ -1,0 +1,8 @@
+IssuingCountry: NGA
+LastName: EKANEM
+GivenName: NSIKAK ASUQUO
+DocumentNumber: A08336514
+Nationality: NGA
+Date of Birth: 05-07-1979
+Sex: MALE
+Date of Expiry: 06-06-2022

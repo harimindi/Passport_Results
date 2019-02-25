@@ -1,0 +1,8 @@
+IssuingCountry: HUN
+LastName: LODI
+GivenName: TIBOR
+DocumentNumber: BB4587925
+Nationality: HUN
+Date of Birth: 27-07-1983
+Sex: MALE
+Date of Expiry: 26-06-2019

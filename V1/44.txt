@@ -1,0 +1,8 @@
+IssuingCountry: ITA
+LastName: CORDEDDU
+GivenName: ALESSIO
+DocumentNumber: YA9321349
+Nationality: ITA
+Date of Birth: 28-09-1994
+Sex: MALE
+Date of Expiry: 11-07-2026
